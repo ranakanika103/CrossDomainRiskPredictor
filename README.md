@@ -48,25 +48,25 @@ This project solves that problem by:
 
 CrossDomainRiskProject/
 │
-├── data/
-│ ├── multilingual_complaints_balanced/
-│ ├── multilingual_complaints_dataset/
-│ └── new_complaints/
+├── data/&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+│ ├── multilingual_complaints_balanced/&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+│ ├── multilingual_complaints_dataset/&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+│ └── new_complaints/&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
 │
-├── utils/
-│ ├── pycache/
-│ │ └── preprocessing.cpython-311.pyc
-│ └── preprocessing.py
+├── utils/&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+│ ├── pycache/&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+│ │ └── preprocessing.cpython-311.pyc&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+│ └── preprocessing.py&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
 │
-├── models/
-│ ├── risk_model.pkl
-│ └── tfidf_vectorizer.pkl
+├── models/&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+│ ├── risk_model.pkl&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+│ └── tfidf_vectorizer.pkl&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
 │
-├── venv_risk/
-├── train_model/
-├── app.py
-├── README.md
-└── requirements.txt
+├── venv_risk/&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+├── train_model/&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+├── app.py&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+├── README.md&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+└── requirements.txt&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
 
 ---
 
