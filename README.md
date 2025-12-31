@@ -46,27 +46,27 @@ This project solves that problem by:
 
 ## 🔹 Project Structure
 
-CrossDomainRiskProject/
+CrossDomainRiskProject/&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <br>
 │
-├── data/&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
-│ ├── multilingual_complaints_balanced/&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
-│ ├── multilingual_complaints_dataset/&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
-│ └── new_complaints/&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+├── data/&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <br>
+│ ├── multilingual_complaints_balanced/&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <br>
+│ ├── multilingual_complaints_dataset/&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <br>
+│ └── new_complaints/&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <br>
 │
-├── utils/&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
-│ ├── pycache/&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
-│ │ └── preprocessing.cpython-311.pyc&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
-│ └── preprocessing.py&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+├── utils/&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <br>
+│ ├── pycache/&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <br>
+│ │ └── preprocessing.cpython-311.pyc&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <br>
+│ └── preprocessing.py&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <br>
 │
-├── models/&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
-│ ├── risk_model.pkl&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
-│ └── tfidf_vectorizer.pkl&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+├── models/&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <br>
+│ ├── risk_model.pkl&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <br>
+│ └── tfidf_vectorizer.pkl&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <br>
 │
-├── venv_risk/&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
-├── train_model/&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
-├── app.py&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
-├── README.md&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
-└── requirements.txt&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+├── venv_risk/&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <br>
+├── train_model/&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <br>
+├── app.py&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <br>
+├── README.md&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <br>
+└── requirements.txt&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <br>
 
 ---
 
