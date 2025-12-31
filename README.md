@@ -132,24 +132,7 @@ Handled inside `utils/preprocessing.py`:
 
 ---
 
-## ▶️ How to Run the Project
-
-### 1️⃣ Clone Repository
-```bash
-git clone https://github.com/YourUsername/CrossDomainRiskProject.git
-cd CrossDomainRiskProject
-
-2️⃣ Install Dependencies
-pip install -r requirements.txt
-
-3️⃣ Train the Model (if needed)
-jupyter notebook
-
-4️⃣ Run the Application
-python app.py
-
----
-🔮 Future Improvements
+## 🔮 Future Improvements
 
 * 🌍 Advanced multilingual embeddings
 
@@ -163,7 +146,7 @@ python app.py
 
 ---
 
-👩‍💻 Author
+## 👩‍💻 Author
 
 Kanika Rana
 💼 Aspiring Data Scientist / ML Engineer
